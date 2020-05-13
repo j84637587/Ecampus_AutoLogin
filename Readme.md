@@ -1,2 +1,29 @@
-Only for chrom version 79
-suit for chrom version chromedriver.exe
+## [4.0.0]- 2020-5-13:
+### Added
+- driver 版本紀錄功能
+- driver 更新系統
+- 檔案系統
+### Fixed
+- 驗證碼迴圈錯誤
+
+## [3.1.0]- 2019-12-22:
+### Fixed
+- tesseract 未安裝程式會卡住
+- 增加 tesseract 未安裝會跳過驗證碼辨識機智
+
+## [3.0.0]- 2019-12-22:
+### Added
+- config.ini 添加注意事項, 使用方法, tesseract 安裝位置
+- 增加 config.ini 讀取例外機智
+
+## [2.1.0] - 2019-12-21:
+### Fixed
+- 驗證碼無法正常辨識
+
+## [2.0.0] - 2019-12-20:
+### Added
+- 添加驗證碼辨識
+
+## [1.0.0] - 2019-12-20:
+### Added
+- 初步編譯

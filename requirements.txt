@@ -1,0 +1,4 @@
+requests
+pytesseract
+selenium
+pillow
