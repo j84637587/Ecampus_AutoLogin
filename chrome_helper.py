@@ -11,7 +11,7 @@ CURRENT_PATH = os.getcwd()  # 當前資料夾路徑
 CHROME_DRIVER_BASE_URL = "https://chromedriver.storage.googleapis.com"
 CHROME_DRIVER_FOLDER = CURRENT_PATH + r"\temp\chrome"
 CHROME_DRIVER_MAPPING_FILE = r"{}\mapping.json".format(CHROME_DRIVER_FOLDER)
-CHROME_DRIVER_EXE = r"{}\chrmoedriver.exe".format(CHROME_DRIVER_FOLDER)
+CHROME_DRIVER_EXE = r"{}\chromedriver.exe".format(CHROME_DRIVER_FOLDER)
 CHROME_DRIVER_ZIP = r"{}\chromedriver_win32.zip".format(CHROME_DRIVER_FOLDER)
 
 
